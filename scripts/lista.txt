@@ -1,0 +1,63 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 0E97-610C
+
+ Directorio de C:\Program Files
+
+02/02/2023  12:47    <DIR>          .
+02/02/2023  12:47    <DIR>          ..
+03/08/2022  16:06    <DIR>          AutoFirma
+25/10/2020  13:36    <DIR>          AutoHotkey
+14/04/2021  10:14    <DIR>          BakkesMod
+25/08/2021  14:55    <DIR>          Binance
+11/11/2022  17:24    <DIR>          Blackmagic Design
+11/06/2021  01:00    <DIR>          Common Files
+08/03/2022  21:12    <DIR>          CoppeliaRobotics
+10/07/2020  20:10    <DIR>          CPUID
+10/09/2021  22:08    <DIR>          Epic Games
+01/02/2021  17:48    <DIR>          GIMP 2
+21/09/2022  15:41    <DIR>          Git
+18/02/2021  11:07    <DIR>          Google
+22/03/2022  18:17    <DIR>          Internet Explorer
+26/12/2020  13:23    <DIR>          Java
+10/12/2021  22:38    <DIR>          JetBrains
+28/02/2023  17:28    <DIR>          LGHUB
+24/12/2020  13:16    <DIR>          LibreOffice
+19/10/2022  16:55    <DIR>          Logitech
+08/01/2023  16:10    <DIR>          McAfee
+03/09/2022  00:22    <DIR>          Microsoft
+29/10/2020  10:12    <DIR>          Microsoft Office 15
+05/02/2023  15:11    <DIR>          Microsoft OneDrive
+28/01/2023  19:06    <DIR>          Microsoft Update Health Tools
+07/12/2019  10:14    <DIR>          ModifiableWindowsApps
+05/02/2023  15:11    <DIR>          Mozilla Firefox
+03/10/2020  11:23    <DIR>          MSBuild
+10/12/2021  23:04    <DIR>          nodejs
+27/12/2022  19:39    <DIR>          NVIDIA Corporation
+16/06/2021  18:51    <DIR>          obs-studio
+13/10/2022  10:17    <DIR>          Oracle
+04/06/2021  22:15    <DIR>          Oray
+28/04/2022  14:08    <DIR>          PCHealthCheck
+05/11/2021  23:46    <DIR>          QGIS 3.16
+09/10/2020  21:22    <DIR>          Razer
+09/10/2020  21:22    <DIR>          Razer Chroma SDK
+03/10/2020  11:23    <DIR>          Reference Assemblies
+10/09/2021  20:19    <DIR>          Rockstar Games
+28/02/2022  01:18    <DIR>          Samsung
+02/02/2023  00:22    <DIR>          Streamlabs OBS
+23/02/2022  14:54    <DIR>          UNP
+28/07/2021  11:40    <DIR>          VB
+02/02/2023  12:48    <DIR>          VcXsrv
+07/02/2021  04:17    <DIR>          Windows Defender
+03/03/2023  00:55    <DIR>          Windows Defender Advanced Threat Protection
+22/12/2022  22:06    <DIR>          Windows Mail
+28/07/2022  23:35    <DIR>          Windows Media Player
+07/12/2019  15:58    <DIR>          Windows Multimedia Platform
+03/10/2020  10:35    <DIR>          Windows NT
+07/02/2021  04:17    <DIR>          Windows Photo Viewer
+07/12/2019  15:58    <DIR>          Windows Portable Devices
+07/12/2019  10:31    <DIR>          Windows Security
+07/12/2019  10:31    <DIR>          WindowsPowerShell
+02/10/2020  16:34    <DIR>          WinRAR
+02/02/2022  21:46    <DIR>          Wondershare
+               0 archivos              0 bytes
+              56 dirs  163.746.570.240 bytes libres

@@ -1,0 +1,1 @@
+WshShell.SendKeys "{ENTER}"
